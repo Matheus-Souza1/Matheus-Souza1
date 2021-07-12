@@ -20,25 +20,30 @@
 
 
 ----
+<div>
+  <a href="https://github.com/Matheus-Souza1"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Souza1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Souza1&layout=compact&langs_count=7&theme=dracula"/>
+    
+</div>
+  
+----
+<div align="start">  
 
-<div align="start">
-
-<i>Se quiser falar comigo ou saber mais => Você me encontra nas redes sociais:</i><br>
+  <i>Se quiser falar comigo ou saber mais => Você me encontra nas redes sociais:</i><br> 
   
   <a href = "mailto:matheussouzaslv2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-souza-4a4b19189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
-
-----
-
-<div>
-  <a href="https://github.com/Matheus-Souza1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Souza1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Souza1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
+  
+   ![Snake animation](https://github.com/Matheus-Souza1/Matheus-Souza1/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ----
+    
+    
+
 
 
  
